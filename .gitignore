@@ -1,0 +1,40 @@
+# dependencies
+/node_modules
+
+# build output
+/build
+/dist
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.iml
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+db.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.pyc
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Other
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Maharaja Sayajirao University",
+    "place": "Alkapuri",
+    "address": "Pratapgunj, Vadodara, Gujarat 390002",
+    "distance": 300,
+    "price": 199,
+    "maxGroupSize": 10,
+    "desc": "Maharaja Sayajirao University of Baroda, formerly Baroda College, is a public university in the city of Vadodara, Gujarat, India. Originally established as a college in 1881, it became a university in 1949 after India's independence.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Laxmi Vilas Palace",
+    "place": "Moti Baug",
+    "address": "address",
+    "distance": 400,
+    "price": 499,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Pavagad",
+    "place": "Halol",
+    "address": "address",
+    "distance": 500,
+    "price": 199,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sayaji Baug",
+    "place": "Fatehgunj",
+    "address": "address",
+    "distance": 500,
+    "price": 299,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Maharaja Fatesingh Museum",
+    "place": "Moti Baug",
+    "address": "address",
+    "distance": 500,
+    "price": 399,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sardar Patel National Memorial",
+    "place": "Ahmedabad",
+    "address": "address",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Gir National Park",
+    "place": "Sasan-Gir",
+    "address": "address",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Statue of Unity",
+    "place": "Bharuch",
+    "address": "address",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "place": "Sylhet",
+    "address": "address",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "VIT",
+    "place": "Bhopal",
+    "address": "Somewhere in ashta",
+    "distance": 500,
+    "price": 399,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": true
+  }
+]
