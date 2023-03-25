@@ -24,7 +24,7 @@ const Register = () => {
   const handleClick = async e=>{
     e.preventDefault()
     try {
-      const res= await fetch(`${BASE_URL}/auth/register`,{
+      const res= await fetch(`${BASE_URL}/api/v1/auth/register`,{
         method:'post',
         headers:{
           'content-type':'application/json'

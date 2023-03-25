@@ -15,8 +15,8 @@ const Places = () => {
   const [pageCount, setPageCount]= useState(0);
   const [page, setPage]= useState(0);
 
-  const {data:tours, loading, error}= useFetch(`${BASE_URL}/tours?page=${page}`)
-  const {data:touCount}=useFetch(`${BASE_URL}/tours/search/getTourCount`)
+  const {data:tours, loading, error}= useFetch(`${BASE_URL}/api/v1/tours?page=${page}`)
+  const {data:touCount}=useFetch(`${BASE_URL}/api/v1/tours/search/getTourCount`)
 
 
   useEffect(() =>{

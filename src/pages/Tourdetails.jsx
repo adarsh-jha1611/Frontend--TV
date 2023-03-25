@@ -15,7 +15,7 @@ const Tourdetails = () => {
   const [tourRating, setTourRating]=useState(null)
 
 
-  const {data:tour, loading,error}=useFetch(`${BASE_URL}/tours/${id}`)
+  const {data:tour, loading,error}=useFetch(`${BASE_URL}/api/v1/tours/${id}`)
   const {photo, title,place, desc, price,address, reviews, distance, maxGroupSize}= tour
 
   const {totalRating, avgRating}= calculateAvgRating(reviews)
