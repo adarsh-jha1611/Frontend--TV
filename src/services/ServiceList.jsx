@@ -9,17 +9,17 @@ const servicesData = [
     {
         imgUrl: weatherImg, 
         title: "Calculate Weather",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        desc: "Know the weather and get to know when is the best time to visit!",
         },
         {
         imgUrl: guideImg, 
         title: "Best Tour Guide",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        desc: "Get to know which place is better to visit and when.",
         },
         {
         imgUrl: customizationImg, 
         title: "Customization",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        desc: "Customize your tour and visit different places.",
         },
 
 ]

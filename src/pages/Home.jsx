@@ -92,9 +92,9 @@ const Home = () => {
               {/* <h1>aadi</h1> */}
               <h2>Share your experience <br />Post a blog now!</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                Share your memories, experiences and reviews! 
                 <br />
-                aepe cumque ad laboriosam ratione, cupiditate ab. Obcaecati.</p>
+                Make it a memmory section and visit it every single day...</p>
             </div>
 
             <div className="counter__wrapper d-flex align-items-center gap-5">
