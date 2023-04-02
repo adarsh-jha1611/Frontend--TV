@@ -52,10 +52,10 @@ const tours = [
     title: "Pavagad",
     place: "Halol",
     distance: 500,
-    address:"address",
+    address:"Halol, Gujarat",
     price: 199,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Pavagad is a hill station and a historical town located in the Indian state of Karnataka. It is known for its ancient hilltop fortress, which was once the capital of the local Hindu kingdom.",
     reviews: [
       {
         name: "jhon doe",
