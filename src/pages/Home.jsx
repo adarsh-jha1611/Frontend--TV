@@ -89,7 +89,7 @@ const Home = () => {
         <Row>
           <Col lg='6'>
             <div className="experience__content">
-              {/* <h1>aadi</h1> */}
+              {/* <h1>Aadi</h1> */}
               <h2>Share your experience <br />Post a blog now!</h2>
               <p>
                 Share your memories, experiences and reviews! 
