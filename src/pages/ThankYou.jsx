@@ -11,7 +11,7 @@ const ThankYou = () => {
                 <div className="thank__you">
                     <span><i class="ri-checkbox-line"></i></span>
                     <h1 className='mb-3 fw-semibold'>Thank You</h1>
-                    <h3 className='mb-4'>Your tour is booked, Let us visit together.</h3>
+                    <h3 className='mb-4'>Your tour is booked, Let us visit together!</h3>
 
                     <Button className='btn primary__btn w-25'><Link to='/home'>Back to Home</Link></Button>
                 </div>
