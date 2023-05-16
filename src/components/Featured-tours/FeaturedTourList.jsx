@@ -11,7 +11,7 @@ const FeaturedTourList = () => {
   return (
   <>
   {
-    loading && <h4>Loading......</h4>
+    loading && <h4>Loading........</h4>
   }
   {
     error && <h4>{error}</h4>
