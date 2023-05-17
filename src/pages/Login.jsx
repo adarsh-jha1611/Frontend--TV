@@ -71,7 +71,7 @@ const navigate= useNavigate()
                   <input type='password' placeholder='Password' required id='password' onChange={handleChange}/>
                 </FormGroup>
                 <Button className='btn secondary__btn auth__btn' type='submit'>Login</Button>
-                <p>New here? <Link to='/register'>Create Account</Link></p>
+                <p>New to this site? <Link to='/register'>Create Account</Link></p>
               </Form>
 
 
