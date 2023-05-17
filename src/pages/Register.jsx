@@ -71,7 +71,7 @@ const Register = () => {
                   <input type='password' placeholder='Confirm Password' required id='password' onChange={handleChange}/>
                 </FormGroup> */}
                 <Button className='btn secondary__btn auth__btn' type='submit'>Register</Button>
-                <p>Already have an account? <Link to='/login'>Sign In</Link></p>
+                <p>Already have an account? <Link to='/login'>Dive In</Link></p>
               </Form>
 
 
