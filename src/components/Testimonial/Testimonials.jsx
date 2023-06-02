@@ -63,8 +63,7 @@ Vadodara, located in Gujarat, India, is a vibrant city known for its rich cultur
           </div>
           <div className='testimonial py-4 px-3'>
               <p>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel ab commodi itaque. Voluptatum soluta, in ab voluptates a eaque. Assumenda dicta recusandae reiciendis consectetur ex pariatur! Iusto temporibus neque laborum.
-              </p>
+India's Gujarat state is home to the thriving city of Vadodara, which is renowned for its illustrious past and magnificent palaces. It provides the ideal fusion of historical allure and contemporary conveniences, making it a pleasant vacation spot.              </p>
               <div className='d-flex align-items-center gap-4 mt-3'>
                   <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
                   <div>
