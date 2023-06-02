@@ -52,8 +52,7 @@ const Testimonials = () => {
           </div>
           <div className='testimonial py-4 px-3'>
               <p>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel ab commodi itaque. Voluptatum soluta, in ab voluptates a eaque. Assumenda dicta recusandae reiciendis consectetur ex pariatur! Iusto temporibus neque laborum.
-              </p>
+Vadodara, located in Gujarat, India, is a vibrant city known for its rich cultural heritage and majestic palaces. It offers a perfect blend of historical charm and modern amenities, making it a delightful destination for travelers.              </p>
               <div className='d-flex align-items-center gap-4 mt-3'>
                   <img src={ava02} className='w-25 h-25 rounded-2' alt="" />
                   <div>
